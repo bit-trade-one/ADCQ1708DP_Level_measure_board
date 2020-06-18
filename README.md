@@ -13,6 +13,8 @@ CQ出版社発行のトランジスタ技術2017年6月号より開始された�
 
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/adcq1708dp/)!
 
+## [マニュアル](https://github.com/bit-trade-one/ADCQ1708DK_Level_measure_board_kit/blob/master/Manual/Level_meter_board_manual.pdf)
+
 ## 製品仕様
 
 【対応OS】Raspbian  
