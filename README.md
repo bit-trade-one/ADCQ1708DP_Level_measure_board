@@ -15,6 +15,13 @@ CQ出版社発行のトランジスタ技術2017年6月号より開始された�
 
 ## [マニュアル](https://github.com/bit-trade-one/ADCQ1708DK_Level_measure_board_kit/blob/master/Manual/Level_meter_board_manual.pdf)
 
+## Raspberry Pi用ソフトウェアについて
+
+[こちら](https://toragi.cqpub.co.jp/tabid/831/Default.html)のページの"2017年9月号"の欄にある"連載 スマホ＆大画面！Wi-Fi周波数レスポンス・アナライザ"より  
+Raspberry Pi用のソフトウェア類のソースコードをダウンロードいただけます。  
+別途、Web解説記事をご覧の上で動作させてくださいませ。  
+※ダウンロードしたzipファイル内の"Analyzer"が該当するファイルです。
+
 ## 製品仕様
 
 【対応OS】Raspbian  
